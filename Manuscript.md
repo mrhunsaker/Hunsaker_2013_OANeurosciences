@@ -44,7 +44,8 @@ It is assumed by each of these models that in new learning situations the hippoc
 
 At the level of processing (cf., Table 1), the event-based memory system provides for temporary representations of incoming data concerning the present (i.e., online processing), with an emphasis upon data and events that are usually personal and that occur within specific external and internal contexts. The emphasis is upon the processing of new and current information. During initial learning, emphasis is placed on the event-based memory system, which will continue to be of importance even after initial learning in situations where unique or novel trial information needs to be remembered [26,27]. This system is akin to episodic memory [12,18,27] as formulated to describe research using human subjects.
 
-![Table1](http://github.com/mrhunsaker/___/Table1.png?raw=true)
+![Table1](https://raw.github.com/mrhunsaker/Hunsaker_2013_OANeurosciences/master/Table1.png?raw-true)
+
 Table 1: Description of the processes performed by different memory systems used in the attribute theory as applicable to research using rodents
 
 ---
@@ -85,13 +86,15 @@ For the rule-based memory system, it is assumed that information is processed th
 On a neurobiological level (cf., Table 2; Figure 1) each attribute maps onto a set of neural regions and their interconnected neural circuits. For example, within the event-based memory system, it has been demonstrated that in animals and humans the hippocampus supports memory for spatial, temporal and language attribute information; the entire basal ganglia, particularly the dorsolateral striatum (in rodents) mediates memory for response attribute information; the amygdala and nucleus accumbens subserves memory for reward value (affect) attribute information; and the perirhinal, extrastriate visual cortex, and all other sensory cortices support memory for visual object sensory/perceptual attribute.
 
 
-![Table2](http://github.com/mrhunsaker/Hunsaker_2013_OANeurosciences/Table2.png?raw=true)
+![Table2](https://raw.github.com/mrhunsaker/Hunsaker_2013_OANeurosciences/master/Table2.png?raw-true)
+
 Table 2. Primary neuroanatomical correlates underlying each attribute in rodents
 
 
 ---
 
-![Figure1](http://github.com/mrhunsaker/Hunsaker_2013_OANeurosciences/Figure1.png?raw=true)
+![Figure1](https://raw.github.com/mrhunsaker/Hunsaker_2013_OANeurosciences/master/Figure1.png?raw-true)
+
 Figure 1. Neural networks underlying spatial attribute processing organized by memory system. In this model the event-based memory system (green diamonds) process incoming sensory/perceptual information to calculate the spatial attribute in an online manner. This can be simplified as an encoding process involving spatial pattern separation and rapid trial unique arbitrary associations. The knowledge based memory system (blue rounded rectangles) uses already processed spatial information from the event-based memory system to further process space. This can be simplified to a retrieval process involving spatial pattern completion, consolidation, and multiple trial learned paired patterned associations, as well as retrospective coding. The rule based memory system (red rectangles) provides the event and knowledge based memory systems with goals and reward contingencies to guide online spatial processing and retrieval processes. This can be simplified as a prospective coding process. The retrosplenial cortex (highlighted as a pink rectangle), appears based on anatomical connectivity to provide an interface for all three neural systems (cf., [112-114]).
 
 ---
@@ -152,7 +155,8 @@ Within the event-based memory system, the hippocampus computes overall spatial r
 
 The hippocampus-based representations involved mathematically-rich information such as precise metric relationships among stimuli (cf., Figure 2). The mathematical blueprint is generated using information from the medial entorhinal cortex and parahippocampal gyrus/postrhinal cortex. As such, this blueprint designated nodes occupied by elements, but does not specify the precise identity of the objects other than rough sketch information.
 
-![Figure2](http://github/com/mrhunsaker/Hunsaker_2013_OANeurosciences/Figure2.png?raw=true)
+![Figure2](https://raw.github.com/mrhunsaker/Hunsaker_2013_OANeurosciences/master/Figure2.png?raw-true)
+
 Figure 2. Model of spatial processing by interacting memory systems. A. depicts an environment in which a rat is placed to explore in a spatial memory task (cf., Goodrich-Hunsaker and colleagues, 2055, 2008). B. depicts the neural computations carried out by the event-based memory system as defined in Figure 1 with particular focus on the contributions from the hippocampus. Spatial relationships among stimuli are defined mathematically in terms of raw angles and distanced from the rat. C. depicts the neural computations undertaken by the knowledge based memory system, particular the posterior parietal cortex. Spatial relationships are defined by only the most general geometric relationships (i.e., geometric shape defined by the elements-connectedness and neighborhood), but without regard to the vantage of the rat for this processing or specific regard to which object is located at which node. D. depicts the processing by the Rule based memory system, particularly the Infralimbic/Prelimbic cortices. The rule based memory system used affective information to guide exploratory behavior and decisions undertaken by the rat. Importantly, the rule based memory system can switch between the event and knowledge based memory system as needed to guide behavioral performance. E. depicts an active interaction among the three memory systems, focusing on the proposed role for the retrosplenial cortex (cf., [112-114]). The retrosplenial cortex, having access to raw data from the thalamus, as well as the three memory systems, can perform computations in concert with the rule based memory system, as well as independently, and then signal that update to the rule based memory system. Importantly, the retrosplenial cortex simplifies the spatial inputs to those relevant to guide task performance; this process provides a mechanism whereby an animal may compute egocentric position within an allocentric frame as proposed by other authors.
 
 ---
