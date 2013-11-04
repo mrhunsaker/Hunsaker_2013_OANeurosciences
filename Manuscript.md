@@ -44,8 +44,16 @@ It is assumed by each of these models that in new learning situations the hippoc
 
 At the level of processing (cf., Table 1), the event-based memory system provides for temporary representations of incoming data concerning the present (i.e., online processing), with an emphasis upon data and events that are usually personal and that occur within specific external and internal contexts. The emphasis is upon the processing of new and current information. During initial learning, emphasis is placed on the event-based memory system, which will continue to be of importance even after initial learning in situations where unique or novel trial information needs to be remembered [26,27]. This system is akin to episodic memory [12,18,27] as formulated to describe research using human subjects.
 
-![Table1](https://raw.github.com/mrhunsaker/Hunsaker_2013_OANeurosciences/master/Table1.png?raw-true)
 
+ Phase     	Event-Based     			Knowledge-Based    			 				Rule-Based
+ -------  	---------------  			---------------------- 						-----------------------
+ Encoding  	Pattern Separation  		Selective Attention  						Strategy Selection
+        	Transient Representations  	Permanent Memory Representations
+        	Short Term Memory  			Perceptual Memory  							Rule Maintenance
+        	Intermediate Term Memory
+ Retrieval  Consolidation  				Long Term Memory  Rule Maintenance
+        	Pattern Completion  		Retrieval Based on Flexibility and Action  	Short Term Working Memory
+ -------  	---------------  			---------------------- 						-----------------------
 Table 1: Description of the processes performed by different memory systems used in the attribute theory as applicable to research using rodents
 
 ---
@@ -85,11 +93,18 @@ For the rule-based memory system, it is assumed that information is processed th
 
 On a neurobiological level (cf., Table 2; Figure 1) each attribute maps onto a set of neural regions and their interconnected neural circuits. For example, within the event-based memory system, it has been demonstrated that in animals and humans the hippocampus supports memory for spatial, temporal and language attribute information; the entire basal ganglia, particularly the dorsolateral striatum (in rodents) mediates memory for response attribute information; the amygdala and nucleus accumbens subserves memory for reward value (affect) attribute information; and the perirhinal, extrastriate visual cortex, and all other sensory cortices support memory for visual object sensory/perceptual attribute.
 
-
-![Table2](https://raw.github.com/mrhunsaker/Hunsaker_2013_OANeurosciences/master/Table2.png?raw-true)
-
-Table 2. Primary neuroanatomical correlates underlying each attribute in rodents
-
+Attribute     		Event-Based     			Knowledge-Based    			 					Rule-Based
+--------  			---------------  			------------------------ 						--------------------------
+Spatial				Hippocampus					Parietal Cortex									Infralimbic/Prelimbic, Retrosplenial Cortex
+Temporal			Hippocampus, Basal Ganglia	Anterior Cingulate, Infralimbic/Prelimbic		Anterior Cingulate, Infralimbic/Prelimbic
+Sensory/Perceptual	Sensory Cortices			TE2 Cortex, Perirhinal Cortex, Piriform Cortex	Infralimbic/Prelimbic
+Response			Caudoputamen				Precentral Cortex, Cerebellum					Precentral Cortex, Cerebellum
+Affect				Amygdala					Agranular Insula								Agranular Insula, Infralimbic/Prelimbic
+Executive Function	Basal Ganglia				Infralimbic/Prelimbic, Parietal Cortex			Infralimbic/Prelimbic, parietal Cortex
+Social											Unknown Network
+ProtoLanguage 									Unknown Network
+-------  			---------------  			------------------------ 						--------------------------
+Table 2: Primary neuroanatomical correlates underlying each attribute in rodents
 
 ---
 
